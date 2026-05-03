@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { Sparkles, Plug } from "lucide-react";
+import { Sparkles } from "lucide-react";
 import type { LeaderboardEntry } from "@/lib/types";
 import { TRADEABLE_INSTRUMENTS } from "@/lib/tickers";
 import { fmtUsdM } from "@/lib/format";
@@ -87,24 +87,9 @@ export default function PersonalizationStrip({ leaderboard }: Props) {
   }, [positions, leaderboard]);
 
   if (!session) {
-    return (
-      <section className="mt-6">
-        <div className="rounded-2xl border border-dashed border-border bg-surface-2/40 p-4 sm:p-5 flex flex-col sm:flex-row gap-3 sm:items-center sm:justify-between">
-          <div className="flex items-start gap-3">
-            <div className="w-9 h-9 rounded-full bg-accent/10 border border-accent/30 flex items-center justify-center flex-shrink-0">
-              <Sparkles className="w-4 h-4 text-accent" aria-hidden />
-            </div>
-            <div>
-              <h2 className="text-sm font-semibold">See your crypto holdings in flow context</h2>
-              <p className="mt-0.5 text-xs text-fg-subtle leading-snug max-w-xl">
-                Connect eToro to overlay your BTC and ETH positions with live ETF flow signals — see if institutions are buying or selling what you already own.
-              </p>
-            </div>
-          </div>
-          <Plug className="w-3.5 h-3.5 hidden" aria-hidden />
-        </div>
-      </section>
-    );
+    // Don't render anything when not connected. The eToro Connect button in the header
+    // is the only entry point — no need for a redundant empty-state card here.
+    return null;
   }
 
   if (loading) {
