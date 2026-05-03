@@ -1,0 +1,8387 @@
+{
+  "generatedAt": "2026-05-03T11:28:14.927Z",
+  "asOf": "2026-05-01",
+  "windowDays": 90,
+  "flows": [
+    {
+      "date": "2025-12-22",
+      "ticker": "IBIT",
+      "netFlowUsdM": 6
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "FBTC",
+      "netFlowUsdM": -3.8
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "BITB",
+      "netFlowUsdM": -35
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "ARKB",
+      "netFlowUsdM": -21.4
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "HODL",
+      "netFlowUsdM": -33.6
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "GBTC",
+      "netFlowUsdM": -29
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "IBIT",
+      "netFlowUsdM": -157.3
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "FBTC",
+      "netFlowUsdM": -15.3
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "BITB",
+      "netFlowUsdM": -5.7
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "GBTC",
+      "netFlowUsdM": -10.3
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "IBIT",
+      "netFlowUsdM": -91.4
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "FBTC",
+      "netFlowUsdM": -17.2
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "BITB",
+      "netFlowUsdM": -13.3
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "ARKB",
+      "netFlowUsdM": -9.9
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "EZBC",
+      "netFlowUsdM": -5.1
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "HODL",
+      "netFlowUsdM": -8
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "GBTC",
+      "netFlowUsdM": -24.6
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "IBIT",
+      "netFlowUsdM": -192.6
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "FBTC",
+      "netFlowUsdM": -74.4
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "GBTC",
+      "netFlowUsdM": -8.9
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "IBIT",
+      "netFlowUsdM": -7.9
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "FBTC",
+      "netFlowUsdM": 5.7
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "ARKB",
+      "netFlowUsdM": -6.7
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "BTCO",
+      "netFlowUsdM": -10.4
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "IBIT",
+      "netFlowUsdM": 143.7
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "FBTC",
+      "netFlowUsdM": 78.6
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "BITB",
+      "netFlowUsdM": 13.9
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "ARKB",
+      "netFlowUsdM": 109.6
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "HODL",
+      "netFlowUsdM": 5
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "IBIT",
+      "netFlowUsdM": -99
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "FBTC",
+      "netFlowUsdM": -66.6
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "BITB",
+      "netFlowUsdM": -13.8
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "ARKB",
+      "netFlowUsdM": -76.5
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "EZBC",
+      "netFlowUsdM": -5.1
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "HODL",
+      "netFlowUsdM": -6.8
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "GBTC",
+      "netFlowUsdM": -69.1
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "IBIT",
+      "netFlowUsdM": 287.4
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "FBTC",
+      "netFlowUsdM": 88.1
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "BITB",
+      "netFlowUsdM": 41.5
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "ARKB",
+      "netFlowUsdM": 6.7
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "BTCO",
+      "netFlowUsdM": 4.5
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "EZBC",
+      "netFlowUsdM": 13
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "HODL",
+      "netFlowUsdM": 8.3
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "GBTC",
+      "netFlowUsdM": 15.4
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "IBIT",
+      "netFlowUsdM": 372.5
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "FBTC",
+      "netFlowUsdM": 191.2
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "BITB",
+      "netFlowUsdM": 38.5
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "ARKB",
+      "netFlowUsdM": 36
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "BTCO",
+      "netFlowUsdM": 15
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "EZBC",
+      "netFlowUsdM": 13.6
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "BRRR",
+      "netFlowUsdM": 7.2
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "HODL",
+      "netFlowUsdM": 5.3
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "IBIT",
+      "netFlowUsdM": 228.7
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "FBTC",
+      "netFlowUsdM": -312.2
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "ARKB",
+      "netFlowUsdM": -29.5
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "HODL",
+      "netFlowUsdM": -14.4
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "GBTC",
+      "netFlowUsdM": -83.1
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "IBIT",
+      "netFlowUsdM": -130
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "FBTC",
+      "netFlowUsdM": -247.6
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "BITB",
+      "netFlowUsdM": -39
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "ARKB",
+      "netFlowUsdM": -42.3
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "HODL",
+      "netFlowUsdM": -11.6
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "GBTC",
+      "netFlowUsdM": -15.6
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "IBIT",
+      "netFlowUsdM": -193.3
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "FBTC",
+      "netFlowUsdM": -120.5
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "BITB",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "ARKB",
+      "netFlowUsdM": -9.6
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "BTCW",
+      "netFlowUsdM": 1.9
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "GBTC",
+      "netFlowUsdM": -73.1
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "IBIT",
+      "netFlowUsdM": -252
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "FBTC",
+      "netFlowUsdM": 7.9
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "BITB",
+      "netFlowUsdM": -5.9
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "IBIT",
+      "netFlowUsdM": -70.7
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "FBTC",
+      "netFlowUsdM": 111.7
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "HODL",
+      "netFlowUsdM": 6.5
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "GBTC",
+      "netFlowUsdM": 64.3
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "IBIT",
+      "netFlowUsdM": 126.3
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "FBTC",
+      "netFlowUsdM": 351.4
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "BITB",
+      "netFlowUsdM": 159.4
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "ARKB",
+      "netFlowUsdM": 84.9
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "HODL",
+      "netFlowUsdM": 10
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "BTCW",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "IBIT",
+      "netFlowUsdM": 648.4
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "FBTC",
+      "netFlowUsdM": 125.4
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "BITB",
+      "netFlowUsdM": 10.6
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "ARKB",
+      "netFlowUsdM": 27
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "EZBC",
+      "netFlowUsdM": 5.6
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "HODL",
+      "netFlowUsdM": 8.3
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "GBTC",
+      "netFlowUsdM": 15.3
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "IBIT",
+      "netFlowUsdM": 315.8
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "FBTC",
+      "netFlowUsdM": -188.9
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "BRRR",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "GBTC",
+      "netFlowUsdM": -36.4
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "IBIT",
+      "netFlowUsdM": 15.1
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "FBTC",
+      "netFlowUsdM": -205.2
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "BITB",
+      "netFlowUsdM": -90.4
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "ARKB",
+      "netFlowUsdM": -69.4
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "GBTC",
+      "netFlowUsdM": -44.8
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "IBIT",
+      "netFlowUsdM": -56.9
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "FBTC",
+      "netFlowUsdM": -152.1
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "BITB",
+      "netFlowUsdM": -40.4
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "ARKB",
+      "netFlowUsdM": -46.4
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "EZBC",
+      "netFlowUsdM": -10.4
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "HODL",
+      "netFlowUsdM": -12.7
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "GBTC",
+      "netFlowUsdM": -160.8
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "IBIT",
+      "netFlowUsdM": -356.6
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "FBTC",
+      "netFlowUsdM": -287.7
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "BITB",
+      "netFlowUsdM": -25.9
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "ARKB",
+      "netFlowUsdM": -29.8
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "BRRR",
+      "netFlowUsdM": -3.8
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "HODL",
+      "netFlowUsdM": 6.4
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "GBTC",
+      "netFlowUsdM": -11.3
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "IBIT",
+      "netFlowUsdM": -22.4
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "FBTC",
+      "netFlowUsdM": -9.8
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "IBIT",
+      "netFlowUsdM": -101.6
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "FBTC",
+      "netFlowUsdM": -1.9
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "IBIT",
+      "netFlowUsdM": 15.9
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "FBTC",
+      "netFlowUsdM": -5.7
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "BITB",
+      "netFlowUsdM": -11
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "ARKB",
+      "netFlowUsdM": -2.9
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "BTCW",
+      "netFlowUsdM": 2.8
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "IBIT",
+      "netFlowUsdM": -102.8
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "FBTC",
+      "netFlowUsdM": -44.6
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "IBIT",
+      "netFlowUsdM": -14.2
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "FBTC",
+      "netFlowUsdM": 19.5
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "BITB",
+      "netFlowUsdM": -12.6
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "ARKB",
+      "netFlowUsdM": -12.3
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "IBIT",
+      "netFlowUsdM": -317.8
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "FBTC",
+      "netFlowUsdM": -168
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "BITB",
+      "netFlowUsdM": -88.9
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "ARKB",
+      "netFlowUsdM": -71.6
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "BTCO",
+      "netFlowUsdM": -8.4
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "HODL",
+      "netFlowUsdM": -6.5
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "GBTC",
+      "netFlowUsdM": -119.4
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "IBIT",
+      "netFlowUsdM": -528.3
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "FBTC",
+      "netFlowUsdM": 7.3
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "ARKB",
+      "netFlowUsdM": 8.3
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "HODL",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "IBIT",
+      "netFlowUsdM": 142
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "FBTC",
+      "netFlowUsdM": 153.3
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "BITB",
+      "netFlowUsdM": 96.5
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "ARKB",
+      "netFlowUsdM": 65.1
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "BTCO",
+      "netFlowUsdM": 10.1
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "HODL",
+      "netFlowUsdM": 24.3
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "BTCW",
+      "netFlowUsdM": 3.3
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "IBIT",
+      "netFlowUsdM": 60
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "FBTC",
+      "netFlowUsdM": -148.7
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "BITB",
+      "netFlowUsdM": -23.4
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "ARKB",
+      "netFlowUsdM": -62.5
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "EZBC",
+      "netFlowUsdM": -2.2
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "HODL",
+      "netFlowUsdM": -4.8
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "GBTC",
+      "netFlowUsdM": -56.6
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "IBIT",
+      "netFlowUsdM": -373.4
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "FBTC",
+      "netFlowUsdM": -86.4
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "ARKB",
+      "netFlowUsdM": -31.7
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "EZBC",
+      "netFlowUsdM": -6.4
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "HODL",
+      "netFlowUsdM": -5.2
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "GBTC",
+      "netFlowUsdM": -41.8
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "IBIT",
+      "netFlowUsdM": -175.3
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "FBTC",
+      "netFlowUsdM": -109.5
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "BITB",
+      "netFlowUsdM": -15.6
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "ARKB",
+      "netFlowUsdM": -23.1
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "GBTC",
+      "netFlowUsdM": -75.4
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "IBIT",
+      "netFlowUsdM": 231.6
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "FBTC",
+      "netFlowUsdM": 24.5
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "BITB",
+      "netFlowUsdM": 28.7
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "ARKB",
+      "netFlowUsdM": 43.3
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "BTCO",
+      "netFlowUsdM": 7
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "HODL",
+      "netFlowUsdM": 15.9
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "IBIT",
+      "netFlowUsdM": -20.9
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "FBTC",
+      "netFlowUsdM": 3.1
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "ARKB",
+      "netFlowUsdM": 14.1
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "EZBC",
+      "netFlowUsdM": 6.1
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "HODL",
+      "netFlowUsdM": 12
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "IBIT",
+      "netFlowUsdM": 26.5
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "FBTC",
+      "netFlowUsdM": 56.9
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "ARKB",
+      "netFlowUsdM": 68.5
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "BRRR",
+      "netFlowUsdM": 4.9
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "BTCW",
+      "netFlowUsdM": 3.6
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "IBIT",
+      "netFlowUsdM": -73.4
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "FBTC",
+      "netFlowUsdM": -92.6
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "BITB",
+      "netFlowUsdM": -22
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "ARKB",
+      "netFlowUsdM": -70.5
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "HODL",
+      "netFlowUsdM": -6.7
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "BTCW",
+      "netFlowUsdM": 6.8
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "GBTC",
+      "netFlowUsdM": -17.9
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "IBIT",
+      "netFlowUsdM": -157.6
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "FBTC",
+      "netFlowUsdM": -104.1
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "BITB",
+      "netFlowUsdM": -7.8
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "ARKB",
+      "netFlowUsdM": -31.5
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "BTCO",
+      "netFlowUsdM": -6.8
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "EZBC",
+      "netFlowUsdM": -3.8
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "BRRR",
+      "netFlowUsdM": -2.8
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "HODL",
+      "netFlowUsdM": -3.2
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "GBTC",
+      "netFlowUsdM": -59.1
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "IBIT",
+      "netFlowUsdM": -9.4
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "FBTC",
+      "netFlowUsdM": 12
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "HODL",
+      "netFlowUsdM": 1.9
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "BTCW",
+      "netFlowUsdM": 3.6
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "IBIT",
+      "netFlowUsdM": -119.7
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "FBTC",
+      "netFlowUsdM": 5.9
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "BITB",
+      "netFlowUsdM": -10.3
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "ARKB",
+      "netFlowUsdM": -8.3
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "GBTC",
+      "netFlowUsdM": -8.5
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "IBIT",
+      "netFlowUsdM": -84.2
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "FBTC",
+      "netFlowUsdM": -49.1
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "IBIT",
+      "netFlowUsdM": -164.1
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "FBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "BRRR",
+      "netFlowUsdM": -1.7
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "IBIT",
+      "netFlowUsdM": 64.5
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "FBTC",
+      "netFlowUsdM": 23.6
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "IBIT",
+      "netFlowUsdM": -116.4
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "FBTC",
+      "netFlowUsdM": -27.9
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "BITB",
+      "netFlowUsdM": -43.6
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "ARKB",
+      "netFlowUsdM": -9.2
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "HODL",
+      "netFlowUsdM": 6.4
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "GBTC",
+      "netFlowUsdM": -13.1
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "IBIT",
+      "netFlowUsdM": 78.9
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "FBTC",
+      "netFlowUsdM": 82.8
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "BITB",
+      "netFlowUsdM": 3.5
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "ARKB",
+      "netFlowUsdM": 71.1
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "HODL",
+      "netFlowUsdM": 12.8
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "IBIT",
+      "netFlowUsdM": 297.4
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "FBTC",
+      "netFlowUsdM": 30.1
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "BITB",
+      "netFlowUsdM": 39.4
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "ARKB",
+      "netFlowUsdM": 2.3
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "HODL",
+      "netFlowUsdM": 15.6
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "GBTC",
+      "netFlowUsdM": 102.5
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "IBIT",
+      "netFlowUsdM": 275.8
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "FBTC",
+      "netFlowUsdM": -51.5
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "BITB",
+      "netFlowUsdM": 69
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "ARKB",
+      "netFlowUsdM": -44.9
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "IBIT",
+      "netFlowUsdM": -32.7
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "FBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "BTCO",
+      "netFlowUsdM": 3.3
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "EZBC",
+      "netFlowUsdM": 1.9
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "IBIT",
+      "netFlowUsdM": 263.2
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "FBTC",
+      "netFlowUsdM": 94.8
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "BITB",
+      "netFlowUsdM": 36.4
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "ARKB",
+      "netFlowUsdM": 5.7
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "BTCO",
+      "netFlowUsdM": 6.2
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "EZBC",
+      "netFlowUsdM": 14
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "HODL",
+      "netFlowUsdM": 19.5
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "IBIT",
+      "netFlowUsdM": 322.4
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "FBTC",
+      "netFlowUsdM": -89.3
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "BRRR",
+      "netFlowUsdM": 11.6
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "BTCW",
+      "netFlowUsdM": 8.7
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "GBTC",
+      "netFlowUsdM": -28.2
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "IBIT",
+      "netFlowUsdM": 306.6
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "FBTC",
+      "netFlowUsdM": 48
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "BITB",
+      "netFlowUsdM": 8
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "ARKB",
+      "netFlowUsdM": 14.6
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "BTCO",
+      "netFlowUsdM": 9.1
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "EZBC",
+      "netFlowUsdM": 8.5
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "HODL",
+      "netFlowUsdM": 5.2
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "BTCW",
+      "netFlowUsdM": 7.8
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "GBTC",
+      "netFlowUsdM": 21.7
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "IBIT",
+      "netFlowUsdM": -88.7
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "FBTC",
+      "netFlowUsdM": -48
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "BITB",
+      "netFlowUsdM": -46.4
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "ARKB",
+      "netFlowUsdM": -22.7
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "BRRR",
+      "netFlowUsdM": 5.4
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "HODL",
+      "netFlowUsdM": -8.6
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "GBTC",
+      "netFlowUsdM": -18.9
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "IBIT",
+      "netFlowUsdM": -143.5
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "FBTC",
+      "netFlowUsdM": -158.5
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "BITB",
+      "netFlowUsdM": -22.2
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "ARKB",
+      "netFlowUsdM": -4.5
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "HODL",
+      "netFlowUsdM": -5.8
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "GBTC",
+      "netFlowUsdM": -9.6
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "IBIT",
+      "netFlowUsdM": 109.3
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "FBTC",
+      "netFlowUsdM": 60.1
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "BITB",
+      "netFlowUsdM": -4.5
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "ARKB",
+      "netFlowUsdM": -2.7
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "HODL",
+      "netFlowUsdM": 4.9
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "IBIT",
+      "netFlowUsdM": 185.8
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "FBTC",
+      "netFlowUsdM": 33.5
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "BITB",
+      "netFlowUsdM": 16.4
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "ARKB",
+      "netFlowUsdM": 4.1
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "BRRR",
+      "netFlowUsdM": -4.1
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "HODL",
+      "netFlowUsdM": 5.9
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "IBIT",
+      "netFlowUsdM": 115.3
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "FBTC",
+      "netFlowUsdM": 15.4
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "HODL",
+      "netFlowUsdM": -4.5
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "GBTC",
+      "netFlowUsdM": -16
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "IBIT",
+      "netFlowUsdM": 46.1
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "FBTC",
+      "netFlowUsdM": 15.3
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "BITB",
+      "netFlowUsdM": -5.7
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "ARKB",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "GBTC",
+      "netFlowUsdM": -9.9
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "IBIT",
+      "netFlowUsdM": 143.6
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "FBTC",
+      "netFlowUsdM": 23.2
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "BITB",
+      "netFlowUsdM": 3.1
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "ARKB",
+      "netFlowUsdM": 2.4
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "HODL",
+      "netFlowUsdM": 8.1
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "IBIT",
+      "netFlowUsdM": 139.4
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "FBTC",
+      "netFlowUsdM": 64.5
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "BITB",
+      "netFlowUsdM": 2.8
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "ARKB",
+      "netFlowUsdM": -3.1
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "EZBC",
+      "netFlowUsdM": 2.1
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "HODL",
+      "netFlowUsdM": -6.3
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "IBIT",
+      "netFlowUsdM": 169.3
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "FBTC",
+      "netFlowUsdM": 24.4
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "ARKB",
+      "netFlowUsdM": 2.5
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "HODL",
+      "netFlowUsdM": 3.2
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "IBIT",
+      "netFlowUsdM": -33.9
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "FBTC",
+      "netFlowUsdM": -103.8
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "BITB",
+      "netFlowUsdM": -7
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "GBTC",
+      "netFlowUsdM": -18.8
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "IBIT",
+      "netFlowUsdM": -38.3
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "FBTC",
+      "netFlowUsdM": -26
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "BITB",
+      "netFlowUsdM": -17.2
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "ARKB",
+      "netFlowUsdM": -15.2
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "EZBC",
+      "netFlowUsdM": 4.1
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "BRRR",
+      "netFlowUsdM": 3.2
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "GBTC",
+      "netFlowUsdM": -5.5
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "IBIT",
+      "netFlowUsdM": -45.9
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "FBTC",
+      "netFlowUsdM": -9.1
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "HODL",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "IBIT",
+      "netFlowUsdM": 160.8
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "FBTC",
+      "netFlowUsdM": 41.7
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "ARKB",
+      "netFlowUsdM": -9.4
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "GBTC",
+      "netFlowUsdM": -25.9
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "IBIT",
+      "netFlowUsdM": -4.7
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "FBTC",
+      "netFlowUsdM": -45.3
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "BITB",
+      "netFlowUsdM": -16.6
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "HODL",
+      "netFlowUsdM": -7.9
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "IBIT",
+      "netFlowUsdM": -70.7
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "FBTC",
+      "netFlowUsdM": 83.3
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "ARKB",
+      "netFlowUsdM": -4.8
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "IBIT",
+      "netFlowUsdM": -41.9
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "FBTC",
+      "netFlowUsdM": -32.8
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "BITB",
+      "netFlowUsdM": -33.1
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "ARKB",
+      "netFlowUsdM": -30.5
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "HODL",
+      "netFlowUsdM": -2.4
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "GBTC",
+      "netFlowUsdM": -25.1
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "IBIT",
+      "netFlowUsdM": -201.5
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "FBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "BITB",
+      "netFlowUsdM": -18.6
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "ARKB",
+      "netFlowUsdM": -5.4
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "IBIT",
+      "netFlowUsdM": 7.5
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "FBTC",
+      "netFlowUsdM": 28.9
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "ARKB",
+      "netFlowUsdM": 33
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "IBIT",
+      "netFlowUsdM": 98.4
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "FBTC",
+      "netFlowUsdM": 16.2
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "BITB",
+      "netFlowUsdM": 1.8
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "ARKB",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "IBIT",
+      "netFlowUsdM": -86.5
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "FBTC",
+      "netFlowUsdM": -78.6
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "BITB",
+      "netFlowUsdM": -5.6
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "GBTC",
+      "netFlowUsdM": -13.3
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "IBIT",
+      "netFlowUsdM": -3
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "FBTC",
+      "netFlowUsdM": 7.3
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "HODL",
+      "netFlowUsdM": 4.7
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "IBIT",
+      "netFlowUsdM": 181.9
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "FBTC",
+      "netFlowUsdM": 147.3
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "BITB",
+      "netFlowUsdM": 3.8
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "ARKB",
+      "netFlowUsdM": 118.8
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "HODL",
+      "netFlowUsdM": 2
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "IBIT",
+      "netFlowUsdM": -17.1
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "FBTC",
+      "netFlowUsdM": -47.8
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "ARKB",
+      "netFlowUsdM": -34.2
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "BRRR",
+      "netFlowUsdM": 2.3
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "HODL",
+      "netFlowUsdM": -20.4
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "GBTC",
+      "netFlowUsdM": -41.9
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "IBIT",
+      "netFlowUsdM": 40.4
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "FBTC",
+      "netFlowUsdM": -79.1
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "ARKB",
+      "netFlowUsdM": -74.7
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "MSBT",
+      "netFlowUsdM": 30.6
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "GBTC",
+      "netFlowUsdM": -11.1
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "IBIT",
+      "netFlowUsdM": 269.3
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "FBTC",
+      "netFlowUsdM": 53.3
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "BITB",
+      "netFlowUsdM": 11.7
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "ARKB",
+      "netFlowUsdM": 4.8
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "EZBC",
+      "netFlowUsdM": 2.1
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "HODL",
+      "netFlowUsdM": 2
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "MSBT",
+      "netFlowUsdM": 14.9
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "IBIT",
+      "netFlowUsdM": 137.6
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "FBTC",
+      "netFlowUsdM": 78
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "BITB",
+      "netFlowUsdM": 9.5
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "ARKB",
+      "netFlowUsdM": 3.6
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "HODL",
+      "netFlowUsdM": 2.6
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "MSBT",
+      "netFlowUsdM": 16.3
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "IBIT",
+      "netFlowUsdM": 34.7
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "FBTC",
+      "netFlowUsdM": -229.2
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "BITB",
+      "netFlowUsdM": 11.9
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "ARKB",
+      "netFlowUsdM": -62.9
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "HODL",
+      "netFlowUsdM": -2.6
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "MSBT",
+      "netFlowUsdM": 6.3
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "GBTC",
+      "netFlowUsdM": -38.2
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "IBIT",
+      "netFlowUsdM": 213.8
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "FBTC",
+      "netFlowUsdM": 45.3
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "BITB",
+      "netFlowUsdM": 12.5
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "ARKB",
+      "netFlowUsdM": 113.1
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "HODL",
+      "netFlowUsdM": 6.3
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "MSBT",
+      "netFlowUsdM": 15.5
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "IBIT",
+      "netFlowUsdM": 291.9
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "FBTC",
+      "netFlowUsdM": -47.3
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "BITB",
+      "netFlowUsdM": -8.5
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "ARKB",
+      "netFlowUsdM": -42.2
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "HODL",
+      "netFlowUsdM": -3.7
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "MSBT",
+      "netFlowUsdM": 19.3
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "GBTC",
+      "netFlowUsdM": -23.4
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "IBIT",
+      "netFlowUsdM": 81.7
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "FBTC",
+      "netFlowUsdM": -36
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "ARKB",
+      "netFlowUsdM": -27.4
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "MSBT",
+      "netFlowUsdM": 13.4
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "GBTC",
+      "netFlowUsdM": -22.3
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "IBIT",
+      "netFlowUsdM": 284
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "FBTC",
+      "netFlowUsdM": 163.4
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "BITB",
+      "netFlowUsdM": 38.2
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "ARKB",
+      "netFlowUsdM": 117.9
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "BTCO",
+      "netFlowUsdM": 3.9
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "HODL",
+      "netFlowUsdM": 6.6
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "MSBT",
+      "netFlowUsdM": 16.6
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "GBTC",
+      "netFlowUsdM": 4.2
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "IBIT",
+      "netFlowUsdM": 256
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "FBTC",
+      "netFlowUsdM": -6.6
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "ARKB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "BRRR",
+      "netFlowUsdM": 5.8
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "MSBT",
+      "netFlowUsdM": 8.1
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "GBTC",
+      "netFlowUsdM": -24.9
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "IBIT",
+      "netFlowUsdM": 39.3
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "FBTC",
+      "netFlowUsdM": -6.6
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "BITB",
+      "netFlowUsdM": -12.7
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "ARKB",
+      "netFlowUsdM": -14.5
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "HODL",
+      "netFlowUsdM": -4.3
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "MSBT",
+      "netFlowUsdM": 10.8
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "GBTC",
+      "netFlowUsdM": -17.5
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "IBIT",
+      "netFlowUsdM": 246.9
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "FBTC",
+      "netFlowUsdM": 56.7
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "BITB",
+      "netFlowUsdM": 15.4
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "ARKB",
+      "netFlowUsdM": 11.9
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "HODL",
+      "netFlowUsdM": 3.9
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "BTCW",
+      "netFlowUsdM": 6.3
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "MSBT",
+      "netFlowUsdM": 11.3
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "GBTC",
+      "netFlowUsdM": -16.6
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "IBIT",
+      "netFlowUsdM": 167.5
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "FBTC",
+      "netFlowUsdM": -16.9
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "BITB",
+      "netFlowUsdM": -7.6
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "ARKB",
+      "netFlowUsdM": 71.2
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "HODL",
+      "netFlowUsdM": -5.5
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "MSBT",
+      "netFlowUsdM": 9.4
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "IBIT",
+      "netFlowUsdM": 22.9
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "FBTC",
+      "netFlowUsdM": -1.7
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "BITB",
+      "netFlowUsdM": -8.9
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "ARKB",
+      "netFlowUsdM": -9
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "MSBT",
+      "netFlowUsdM": 11.1
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "IBIT",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "FBTC",
+      "netFlowUsdM": -150.4
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "BITB",
+      "netFlowUsdM": -8.8
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "ARKB",
+      "netFlowUsdM": -43.3
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "HODL",
+      "netFlowUsdM": -14.1
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "MSBT",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "GBTC",
+      "netFlowUsdM": -46.6
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "IBIT",
+      "netFlowUsdM": -112.2
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "FBTC",
+      "netFlowUsdM": -5
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "BITB",
+      "netFlowUsdM": -13.7
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "ARKB",
+      "netFlowUsdM": 41.2
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "MSBT",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "IBIT",
+      "netFlowUsdM": -54.7
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "FBTC",
+      "netFlowUsdM": -36.1
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "ARKB",
+      "netFlowUsdM": -30
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "EZBC",
+      "netFlowUsdM": -6.5
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "MSBT",
+      "netFlowUsdM": 10.8
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "GBTC",
+      "netFlowUsdM": -21.1
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "IBIT",
+      "netFlowUsdM": 19.1
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "FBTC",
+      "netFlowUsdM": 26.6
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "BITB",
+      "netFlowUsdM": -2.9
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "ARKB",
+      "netFlowUsdM": -6.3
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "BTCO",
+      "netFlowUsdM": -4.9
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "HODL",
+      "netFlowUsdM": -2.2
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "MSBT",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "GBTC",
+      "netFlowUsdM": -5.9
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "IBIT",
+      "netFlowUsdM": 284.4
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "FBTC",
+      "netFlowUsdM": 213.4
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "BITB",
+      "netFlowUsdM": 27.3
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "ARKB",
+      "netFlowUsdM": 88.5
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "HODL",
+      "netFlowUsdM": 5.5
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "MSBT",
+      "netFlowUsdM": 4.5
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "ETHE",
+      "netFlowUsdM": 53.7
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "ETHA",
+      "netFlowUsdM": -25
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "ETHW",
+      "netFlowUsdM": -14
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "EZET",
+      "netFlowUsdM": -5.6
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "ETHE",
+      "netFlowUsdM": -50.9
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "ETHA",
+      "netFlowUsdM": -22.3
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "ETHE",
+      "netFlowUsdM": -33.8
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "ETHA",
+      "netFlowUsdM": -22.1
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "ETHE",
+      "netFlowUsdM": -16.6
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "ETHA",
+      "netFlowUsdM": -13.3
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "FETH",
+      "netFlowUsdM": 3.7
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "FETH",
+      "netFlowUsdM": 3.7
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-30",
+      "ticker": "ETHE",
+      "netFlowUsdM": 50.2
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "ETHA",
+      "netFlowUsdM": -21.5
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "FETH",
+      "netFlowUsdM": -2.2
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "ETHV",
+      "netFlowUsdM": -14.1
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "EZET",
+      "netFlowUsdM": -2.2
+    },
+    {
+      "date": "2025-12-31",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "ETHA",
+      "netFlowUsdM": 47.2
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "ETHW",
+      "netFlowUsdM": 19
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "ETHV",
+      "netFlowUsdM": 4.6
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-02",
+      "ticker": "ETHE",
+      "netFlowUsdM": 53.7
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "ETHA",
+      "netFlowUsdM": 102.9
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "FETH",
+      "netFlowUsdM": 21.8
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "ETHW",
+      "netFlowUsdM": 19.7
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-05",
+      "ticker": "ETHE",
+      "netFlowUsdM": 1.3
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "ETHA",
+      "netFlowUsdM": 198.8
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.6
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "ETHW",
+      "netFlowUsdM": 1.4
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "TETH",
+      "netFlowUsdM": 1.6
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-06",
+      "ticker": "ETHE",
+      "netFlowUsdM": -53
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "ETHA",
+      "netFlowUsdM": -6.6
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "FETH",
+      "netFlowUsdM": -13.3
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "ETHW",
+      "netFlowUsdM": -11.2
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "ETHV",
+      "netFlowUsdM": -4.6
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "EZET",
+      "netFlowUsdM": 2.4
+    },
+    {
+      "date": "2026-01-07",
+      "ticker": "ETHE",
+      "netFlowUsdM": -52
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "ETHA",
+      "netFlowUsdM": -107.7
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "FETH",
+      "netFlowUsdM": -4.6
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "ETHV",
+      "netFlowUsdM": -2.3
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-08",
+      "ticker": "ETHE",
+      "netFlowUsdM": -31.7
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "ETHA",
+      "netFlowUsdM": -83.8
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-09",
+      "ticker": "ETHE",
+      "netFlowUsdM": -10
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "ETHA",
+      "netFlowUsdM": -79.9
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "TETH",
+      "netFlowUsdM": 5
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-12",
+      "ticker": "ETHE",
+      "netFlowUsdM": 50.7
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "ETHA",
+      "netFlowUsdM": 53.3
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "FETH",
+      "netFlowUsdM": 14.4
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "ETHW",
+      "netFlowUsdM": 23
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-13",
+      "ticker": "ETHE",
+      "netFlowUsdM": 3.9
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "ETHA",
+      "netFlowUsdM": 81.6
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "FETH",
+      "netFlowUsdM": 5.9
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "ETHW",
+      "netFlowUsdM": 8
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "ETHV",
+      "netFlowUsdM": 3.7
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-14",
+      "ticker": "ETHE",
+      "netFlowUsdM": 32.4
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "ETHA",
+      "netFlowUsdM": 149.2
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-15",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "ETHA",
+      "netFlowUsdM": 14.9
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-16",
+      "ticker": "ETHE",
+      "netFlowUsdM": -10.2
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "ETHA",
+      "netFlowUsdM": -92.3
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "FETH",
+      "netFlowUsdM": -51.5
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "ETHW",
+      "netFlowUsdM": -31.1
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "ETHV",
+      "netFlowUsdM": -5.5
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-20",
+      "ticker": "ETHE",
+      "netFlowUsdM": -38.5
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "ETHA",
+      "netFlowUsdM": -250.3
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "FETH",
+      "netFlowUsdM": -30.9
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "ETHV",
+      "netFlowUsdM": -4.4
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-21",
+      "ticker": "ETHE",
+      "netFlowUsdM": -11.4
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "ETHA",
+      "netFlowUsdM": -44.4
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "ETHW",
+      "netFlowUsdM": -15.2
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-22",
+      "ticker": "ETHE",
+      "netFlowUsdM": 7.9
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "ETHA",
+      "netFlowUsdM": -44.5
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "FETH",
+      "netFlowUsdM": 4.4
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-23",
+      "ticker": "ETHE",
+      "netFlowUsdM": -10.8
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "ETHA",
+      "netFlowUsdM": -20.2
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "FETH",
+      "netFlowUsdM": 137.2
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-26",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "ETHA",
+      "netFlowUsdM": -59
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-27",
+      "ticker": "ETHE",
+      "netFlowUsdM": -14.6
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "ETHA",
+      "netFlowUsdM": 27.3
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "FETH",
+      "netFlowUsdM": 0.8
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-28",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "ETHA",
+      "netFlowUsdM": -54.9
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "FETH",
+      "netFlowUsdM": -59.2
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "ETHW",
+      "netFlowUsdM": -2
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-29",
+      "ticker": "ETHE",
+      "netFlowUsdM": -13.1
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "ETHA",
+      "netFlowUsdM": -157.2
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "FETH",
+      "netFlowUsdM": -95.7
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-01-30",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "ETHA",
+      "netFlowUsdM": -82.1
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "FETH",
+      "netFlowUsdM": 66.6
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "ETHW",
+      "netFlowUsdM": 5
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "ETHV",
+      "netFlowUsdM": 7.6
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-02",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "ETHA",
+      "netFlowUsdM": 42.9
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "FETH",
+      "netFlowUsdM": -54.8
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "ETHV",
+      "netFlowUsdM": -2.5
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "QETH",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-03",
+      "ticker": "ETHE",
+      "netFlowUsdM": 8.2
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "ETHA",
+      "netFlowUsdM": -58.9
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "FETH",
+      "netFlowUsdM": -20.5
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-04",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "ETHA",
+      "netFlowUsdM": -8.5
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "FETH",
+      "netFlowUsdM": -55.8
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "QETH",
+      "netFlowUsdM": 3.5
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-05",
+      "ticker": "ETHE",
+      "netFlowUsdM": -27.1
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "ETHA",
+      "netFlowUsdM": -45.4
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "FETH",
+      "netFlowUsdM": 4.6
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "ETHW",
+      "netFlowUsdM": 11.8
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "ETHV",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "QETH",
+      "netFlowUsdM": 2.5
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-06",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "ETHA",
+      "netFlowUsdM": -45
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "FETH",
+      "netFlowUsdM": 67.3
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "ETHW",
+      "netFlowUsdM": -9.9
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-09",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "FETH",
+      "netFlowUsdM": 0.5
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-10",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "ETHA",
+      "netFlowUsdM": -29.4
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "FETH",
+      "netFlowUsdM": -67.1
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "ETHW",
+      "netFlowUsdM": -16.7
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-11",
+      "ticker": "ETHE",
+      "netFlowUsdM": -11.5
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "ETHA",
+      "netFlowUsdM": -29
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "FETH",
+      "netFlowUsdM": -43.5
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "ETHW",
+      "netFlowUsdM": -6.2
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "TETH",
+      "netFlowUsdM": -2.9
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-12",
+      "ticker": "ETHE",
+      "netFlowUsdM": -13.4
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "ETHA",
+      "netFlowUsdM": -9.3
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "FETH",
+      "netFlowUsdM": 2
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "ETHV",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-13",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "ETHA",
+      "netFlowUsdM": 22.9
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "FETH",
+      "netFlowUsdM": 14.4
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-17",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "ETHA",
+      "netFlowUsdM": -29.9
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "FETH",
+      "netFlowUsdM": -8.2
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "QETH",
+      "netFlowUsdM": -3.7
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-18",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "ETHA",
+      "netFlowUsdM": -96.8
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "FETH",
+      "netFlowUsdM": -11.6
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "ETHW",
+      "netFlowUsdM": -3.3
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-19",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "ETHA",
+      "netFlowUsdM": 1.8
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "FETH",
+      "netFlowUsdM": -2.5
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "TETH",
+      "netFlowUsdM": 0.7
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-20",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "ETHA",
+      "netFlowUsdM": -45.4
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.4
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "ETHV",
+      "netFlowUsdM": -2.7
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-23",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.9
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-24",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "ETHA",
+      "netFlowUsdM": 31.3
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "FETH",
+      "netFlowUsdM": 61.9
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "ETHW",
+      "netFlowUsdM": 1.5
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "ETHV",
+      "netFlowUsdM": 3
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-25",
+      "ticker": "ETHE",
+      "netFlowUsdM": 33.9
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "ETHA",
+      "netFlowUsdM": 15.3
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "FETH",
+      "netFlowUsdM": -19.2
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "TETH",
+      "netFlowUsdM": 7.6
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "QETH",
+      "netFlowUsdM": -2.2
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-26",
+      "ticker": "ETHE",
+      "netFlowUsdM": 6.6
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "ETHA",
+      "netFlowUsdM": -43
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-02-27",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "ETHA",
+      "netFlowUsdM": 26.5
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "FETH",
+      "netFlowUsdM": 1
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "ETHW",
+      "netFlowUsdM": 2.2
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-02",
+      "ticker": "ETHE",
+      "netFlowUsdM": 4.2
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "ETHA",
+      "netFlowUsdM": 41.9
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "FETH",
+      "netFlowUsdM": -66.7
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-03",
+      "ticker": "ETHE",
+      "netFlowUsdM": -4.7
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "ETHA",
+      "netFlowUsdM": 39.3
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "FETH",
+      "netFlowUsdM": 30.3
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "ETHW",
+      "netFlowUsdM": 8.9
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "ETHV",
+      "netFlowUsdM": 9.5
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-04",
+      "ticker": "ETHE",
+      "netFlowUsdM": 21.9
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "ETHA",
+      "netFlowUsdM": 30.3
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "FETH",
+      "netFlowUsdM": -115
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "ETHW",
+      "netFlowUsdM": -3.6
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "TETH",
+      "netFlowUsdM": -5.2
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "ETHV",
+      "netFlowUsdM": -3.8
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "QETH",
+      "netFlowUsdM": 2.7
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-05",
+      "ticker": "ETHE",
+      "netFlowUsdM": -3.4
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "ETHA",
+      "netFlowUsdM": -4.8
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "FETH",
+      "netFlowUsdM": -67.6
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "ETHV",
+      "netFlowUsdM": -2.9
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-06",
+      "ticker": "ETHE",
+      "netFlowUsdM": -1.6
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "ETHA",
+      "netFlowUsdM": -55.1
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "FETH",
+      "netFlowUsdM": 16.2
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "TETH",
+      "netFlowUsdM": 1
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-09",
+      "ticker": "ETHE",
+      "netFlowUsdM": -13.4
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "FETH",
+      "netFlowUsdM": 10.7
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-10",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "ETHA",
+      "netFlowUsdM": 18.8
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "FETH",
+      "netFlowUsdM": 19.1
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-11",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "ETHA",
+      "netFlowUsdM": 18.7
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "ETHB",
+      "netFlowUsdM": 43.5
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "FETH",
+      "netFlowUsdM": 52
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0.9
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "EZET",
+      "netFlowUsdM": 0.8
+    },
+    {
+      "date": "2026-03-12",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "ETHA",
+      "netFlowUsdM": 32.4
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "ETHB",
+      "netFlowUsdM": 2.2
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "FETH",
+      "netFlowUsdM": -7.9
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-13",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "ETHA",
+      "netFlowUsdM": -16.2
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "ETHB",
+      "netFlowUsdM": 32.4
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "FETH",
+      "netFlowUsdM": 34.9
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-16",
+      "ticker": "ETHE",
+      "netFlowUsdM": -15.2
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "ETHA",
+      "netFlowUsdM": 81.7
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "ETHB",
+      "netFlowUsdM": 67.2
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "FETH",
+      "netFlowUsdM": -35.5
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-17",
+      "ticker": "ETHE",
+      "netFlowUsdM": 9.4
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "ETHA",
+      "netFlowUsdM": -1.3
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "ETHB",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "FETH",
+      "netFlowUsdM": -37.1
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "ETHW",
+      "netFlowUsdM": -4.7
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "ETHV",
+      "netFlowUsdM": -4.8
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-18",
+      "ticker": "ETHE",
+      "netFlowUsdM": -8.9
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "ETHA",
+      "netFlowUsdM": -102.3
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "ETHB",
+      "netFlowUsdM": 7.7
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "FETH",
+      "netFlowUsdM": -11.8
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "ETHW",
+      "netFlowUsdM": -5.8
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "TETH",
+      "netFlowUsdM": -5.2
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "ETHV",
+      "netFlowUsdM": -7.1
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "QETH",
+      "netFlowUsdM": -3.4
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-19",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "ETHA",
+      "netFlowUsdM": -31.5
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "ETHB",
+      "netFlowUsdM": 5.5
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "FETH",
+      "netFlowUsdM": -12.2
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "TETH",
+      "netFlowUsdM": -0.7
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "EZET",
+      "netFlowUsdM": -0.8
+    },
+    {
+      "date": "2026-03-20",
+      "ticker": "ETHE",
+      "netFlowUsdM": -2.3
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "ETHA",
+      "netFlowUsdM": -15.7
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "ETHB",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.6
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-23",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "ETHA",
+      "netFlowUsdM": -25
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "ETHB",
+      "netFlowUsdM": 2.2
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "FETH",
+      "netFlowUsdM": -5.8
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "ETHW",
+      "netFlowUsdM": -1.5
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "TETH",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-24",
+      "ticker": "ETHE",
+      "netFlowUsdM": -1.7
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "ETHA",
+      "netFlowUsdM": -33.4
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "ETHB",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "FETH",
+      "netFlowUsdM": 23.8
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-25",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "ETHA",
+      "netFlowUsdM": -140.2
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "ETHB",
+      "netFlowUsdM": 96.8
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "FETH",
+      "netFlowUsdM": -24
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "ETHW",
+      "netFlowUsdM": -5.1
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-26",
+      "ticker": "ETHE",
+      "netFlowUsdM": -13.8
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "ETHA",
+      "netFlowUsdM": -70.8
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "ETHB",
+      "netFlowUsdM": 39.9
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "FETH",
+      "netFlowUsdM": -8.9
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-27",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "ETHA",
+      "netFlowUsdM": -9.8
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "ETHB",
+      "netFlowUsdM": 4.2
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "FETH",
+      "netFlowUsdM": 10.6
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-30",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "ETHA",
+      "netFlowUsdM": 24.7
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "ETHB",
+      "netFlowUsdM": 1.1
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "FETH",
+      "netFlowUsdM": 1.6
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "ETHW",
+      "netFlowUsdM": 1.2
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "TETH",
+      "netFlowUsdM": 2.6
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-03-31",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "ETHA",
+      "netFlowUsdM": -32.3
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "ETHB",
+      "netFlowUsdM": 5.5
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "FETH",
+      "netFlowUsdM": -11.7
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "ETHW",
+      "netFlowUsdM": 4.3
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "TETH",
+      "netFlowUsdM": 3.2
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-01",
+      "ticker": "ETHE",
+      "netFlowUsdM": 17.4
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "ETHA",
+      "netFlowUsdM": -46.7
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "FETH",
+      "netFlowUsdM": -7.7
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-02",
+      "ticker": "ETHE",
+      "netFlowUsdM": -16.8
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "ETHA",
+      "netFlowUsdM": 60.8
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "FETH",
+      "netFlowUsdM": 40.1
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "TETH",
+      "netFlowUsdM": 2.1
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-06",
+      "ticker": "ETHE",
+      "netFlowUsdM": 2.8
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "ETHA",
+      "netFlowUsdM": -16.5
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "FETH",
+      "netFlowUsdM": -48.2
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-07",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "ETHA",
+      "netFlowUsdM": -20.6
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "ETHB",
+      "netFlowUsdM": 44.2
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "FETH",
+      "netFlowUsdM": -32.4
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "TETH",
+      "netFlowUsdM": 2
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-08",
+      "ticker": "ETHE",
+      "netFlowUsdM": -6.1
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "ETHA",
+      "netFlowUsdM": 90.9
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "ETHB",
+      "netFlowUsdM": 13.7
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "FETH",
+      "netFlowUsdM": -21
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "TETH",
+      "netFlowUsdM": -5.5
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "EZET",
+      "netFlowUsdM": -1.7
+    },
+    {
+      "date": "2026-04-09",
+      "ticker": "ETHE",
+      "netFlowUsdM": -0.9
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "ETHA",
+      "netFlowUsdM": 53.7
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "ETHB",
+      "netFlowUsdM": 8.1
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "FETH",
+      "netFlowUsdM": -0.6
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "TETH",
+      "netFlowUsdM": 3.7
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-10",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "ETHA",
+      "netFlowUsdM": -4.1
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "ETHB",
+      "netFlowUsdM": 5.8
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "FETH",
+      "netFlowUsdM": 3.9
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "TETH",
+      "netFlowUsdM": -1.3
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-13",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "ETHA",
+      "netFlowUsdM": 10.5
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "ETHB",
+      "netFlowUsdM": 1.2
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "FETH",
+      "netFlowUsdM": 38.1
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-14",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "ETHA",
+      "netFlowUsdM": 31.5
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "ETHB",
+      "netFlowUsdM": 9.8
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "EZET",
+      "netFlowUsdM": 1.8
+    },
+    {
+      "date": "2026-04-15",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "ETHA",
+      "netFlowUsdM": 30.5
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "ETHW",
+      "netFlowUsdM": -2.5
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-16",
+      "ticker": "ETHE",
+      "netFlowUsdM": -16.7
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "ETHA",
+      "netFlowUsdM": 30.8
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "ETHB",
+      "netFlowUsdM": 1.2
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "FETH",
+      "netFlowUsdM": 84.1
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "ETHW",
+      "netFlowUsdM": 1.9
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "TETH",
+      "netFlowUsdM": 3.6
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-17",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "ETHA",
+      "netFlowUsdM": 76.1
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "ETHB",
+      "netFlowUsdM": 13.2
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.2
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "QETH",
+      "netFlowUsdM": 1.2
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-20",
+      "ticker": "ETHE",
+      "netFlowUsdM": -17.1
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "ETHA",
+      "netFlowUsdM": 37
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "ETHB",
+      "netFlowUsdM": 15.5
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "FETH",
+      "netFlowUsdM": -2.9
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "ETHW",
+      "netFlowUsdM": 2
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "ETHE",
+      "netFlowUsdM": -12.1
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "ETHA",
+      "netFlowUsdM": 53.6
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "FETH",
+      "netFlowUsdM": 40.6
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "ETHE",
+      "netFlowUsdM": -9.2
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "ETHA",
+      "netFlowUsdM": -21
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "FETH",
+      "netFlowUsdM": -51.3
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "ETHW",
+      "netFlowUsdM": -3.3
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "TETH",
+      "netFlowUsdM": -9.2
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "ETHE",
+      "netFlowUsdM": -10.9
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "ETHA",
+      "netFlowUsdM": -7.7
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "ETHB",
+      "netFlowUsdM": 32.3
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.2
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-24",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "ETHA",
+      "netFlowUsdM": -13.8
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "ETHB",
+      "netFlowUsdM": 11.8
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "FETH",
+      "netFlowUsdM": -48.4
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-27",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "ETHA",
+      "netFlowUsdM": -13.2
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.7
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "ETHE",
+      "netFlowUsdM": -6.9
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "ETHA",
+      "netFlowUsdM": -37.1
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "ETHB",
+      "netFlowUsdM": -2.3
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "FETH",
+      "netFlowUsdM": -48.4
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-29",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "ETHA",
+      "netFlowUsdM": -50.6
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "ETHB",
+      "netFlowUsdM": 29.1
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "FETH",
+      "netFlowUsdM": -1.1
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "ETHW",
+      "netFlowUsdM": -3.6
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-04-30",
+      "ticker": "ETHE",
+      "netFlowUsdM": -2.2
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "ETHA",
+      "netFlowUsdM": 43.2
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "ETHB",
+      "netFlowUsdM": 5.9
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "FETH",
+      "netFlowUsdM": 49.4
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "ETHW",
+      "netFlowUsdM": 1.3
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "TETH",
+      "netFlowUsdM": 1.4
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Farside Investors — BTC spot ETF flows",
+      "status": "ok",
+      "lastSeen": "2026-05-03T11:28:14.927Z",
+      "note": "Parsed 594 dates × 12 tickers; kept 5798 rows."
+    },
+    {
+      "source": "Farside Investors — ETH spot ETF flows",
+      "status": "ok",
+      "lastSeen": "2026-05-03T11:28:14.927Z",
+      "note": "Parsed 456 dates × 20 tickers; kept 3602 rows."
+    },
+    {
+      "source": "CoinShares Weekly Asset Flows (altcoins + global)",
+      "status": "down",
+      "lastSeen": null,
+      "note": "Phase 2 source — scraper not yet wired. Will add Solana, XRP, ADA, LINK flow data + multi-region crypto ETP coverage when wired."
+    }
+  ]
+}
