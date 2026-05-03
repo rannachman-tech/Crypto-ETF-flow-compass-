@@ -55,11 +55,10 @@ const MILD_ACCUMULATION: Basket = {
   region: "us",
   title: "Lean in",
   thesis:
-    "The needle leans positive but conviction isn't at acceleration levels — flows are net positive but streaks are short or breadth is mixed. Stay long the core with a small cash buffer reflecting that conviction isn't full. Altcoins deliberately excluded — we don't have flow data on them, so we won't recommend them.",
+    "The needle leans positive but conviction isn't at acceleration levels — flows are net positive but streaks are short or breadth is mixed. BTC-heavier weighting (vs strong-accumulation's balanced split) reflects the mild signal: when conviction is partial, lean to the asset our flow data covers most reliably. Altcoins and cash sleeves deliberately excluded — we only recommend assets we have direct flow signal for.",
   holdings: [
-    holding("BTC", 55, "Core BTC", "When the accumulation lean is mild, BTC is the cleanest trade. 55% sizing reflects 'core long, no altcoin chase' — informed by the strongest data we have."),
-    holding("ETH", 30, "Ethereum sleeve", "Steady ETH allocation captures the spillover when accumulation broadens. Backed by real Farside ETH ETF flow data."),
-    holding("BIL", 15, "Cash buffer", "T-bill cash sleeve — earns yield while you wait for the regime to confirm into strong conviction."),
+    holding("BTC", 70, "Core BTC", "When accumulation is mild, BTC is where the cleanest signal lives. 70% sizing reflects 'core long' on the asset our Farside data covers with most depth."),
+    holding("ETH", 30, "Ethereum sleeve", "Smaller ETH allocation than the strong-accumulation basket — captures the spillover when accumulation broadens, sized for partial conviction."),
   ],
 };
 
@@ -68,11 +67,11 @@ const MILD_DISTRIBUTION: Basket = {
   region: "us",
   title: "Quiet de-risk",
   thesis:
-    "The needle has tipped negative but not at panic levels — institutions are quietly trimming. Reduce crypto exposure, add cash equivalents and gold as ballast. Keep a small BTC core for when the regime turns.",
+    "The needle has tipped negative but not at panic levels — institutions are quietly trimming. The crypto-flow signal says trim. The defensive sleeve (gold + T-bills) is the standard macro-defensive playbook for crypto sell-offs — these picks are based on how those assets behave in crypto stress, NOT on flow data we don't have for them. The BTC + ETH residuals retain optionality for when the regime turns.",
   holdings: [
-    holding("BTC", 30, "Reduced BTC core", "Don't go to zero — keep optionality for when accumulation resumes. 30% retains core exposure."),
-    holding("GLD", 30, "Gold", "Gold is the textbook hedge when crypto distribution begins. Liquid, deep, eToro-tradeable."),
-    holding("BIL", 30, "T-bills", "Short-duration USD Treasuries — yield while you wait for the regime to clarify."),
+    holding("BTC", 30, "Reduced BTC core", "Flow signal is mildly negative but not panicked — keep BTC core exposure for when accumulation resumes."),
+    holding("GLD", 30, "Gold (macro hedge)", "Standard macro-defensive pick when crypto enters distribution. Not flow-signal backed."),
+    holding("BIL", 30, "T-bills (cash)", "Short-duration USD Treasuries — capital preservation + front-end yield. Standard cash equivalent, not flow-signal backed."),
     holding("ETH", 10, "Small ETH residual", "Keep a small ETH position for asymmetric upside if accumulation resumes."),
   ],
 };
@@ -82,12 +81,12 @@ const STRONG_DISTRIBUTION: Basket = {
   region: "us",
   title: "Defense first",
   thesis:
-    "Capital is fleeing crypto ETFs at conviction levels — long outflow streaks, multi-issuer breadth on the sell side, magnitude well above average. Move to capital preservation. Cash, gold, long Treasuries. No crypto exposure until the regime turns.",
+    "Capital is fleeing crypto ETFs at conviction levels. The crypto-flow signal says EXIT. The defensive picks below (T-bills, gold, long Treasuries) are the standard macro-defensive playbook for risk-off — based on how those assets behave when crypto sells off, NOT on flow data for them specifically. We don't have flow data on traditional defensive ETFs; these are macro picks, transparently labeled.",
   holdings: [
-    holding("BIL", 40, "T-bills", "Short-duration USD Treasuries — preserve capital and earn the front-end yield."),
-    holding("GLD", 30, "Gold", "Gold tends to outperform when crypto sells off and risk appetite collapses."),
-    holding("TLT", 20, "Long Treasury", "Long-duration USD Treasuries — when crypto distribution accelerates, rates often fall, bond prices rise."),
-    holding("IB01", 10, "USD T-bills (UCITS)", "UCITS-listed USD T-bill ETF — accessible alternative cash sleeve for EU/UK retail."),
+    holding("BIL", 40, "T-bills (cash, macro)", "Short-duration USD Treasuries — capital preservation. Standard cash equivalent, not flow-signal backed."),
+    holding("GLD", 30, "Gold (macro hedge)", "Standard macro defensive pick when crypto enters strong distribution. Not flow-signal backed."),
+    holding("TLT", 20, "Long Treasury (macro)", "Long-duration USD Treasuries tend to rally when crypto distribution coincides with risk-off rate moves. Macro pick, not flow-signal backed."),
+    holding("IB01", 10, "USD T-bills UCITS (macro)", "UCITS-listed T-bill ETF for EU/UK retail accessibility."),
   ],
 };
 

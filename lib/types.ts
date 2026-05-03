@@ -86,7 +86,10 @@ export interface ThemeReading {
   netFlowUsdM7d: number;
   netFlowUsdM30d: number;
   conviction: ConvictionReading;
+  /** Top contributors by absolute 7-day flow magnitude (max 4). */
   topTickers: { ticker: string; netFlowUsdM7d: number }[];
+  /** Total number of tickers contributing to this theme — used to surface "+ N more" when topTickers is truncated. */
+  contributorCount: number;
   spark: number[];
 }
 

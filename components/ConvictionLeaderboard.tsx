@@ -16,21 +16,21 @@ export default function ConvictionLeaderboard({ leaderboard }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("conviction");
 
   const { topInflows, topOutflows } = useMemo(() => {
-    // Sign comes from 7-day flow (the time scale users see in the rows), not today's direction.
-    // Without this, a ticker with +flow today but −7d net could land in the inflow column.
+    // Filter sign uses the metric we're sorting by so visible numbers match column placement.
+    const filterByFlow = (e: LeaderboardEntry) =>
+      sortKey === "flow30d" ? e.netFlowUsdM30d : e.netFlowUsdM7d;
+
     const enriched = leaderboard.map((l) => ({
       ...l,
-      signedConviction: Math.sign(l.netFlowUsdM7d) * l.conviction.score,
+      signedConviction: Math.sign(filterByFlow(l)) * l.conviction.score,
     }));
 
-    // Inflow column: only tickers with net positive 7d flow.
-    const inflowsOnly = enriched.filter((e) => e.netFlowUsdM7d > 0);
-    const outflowsOnly = enriched.filter((e) => e.netFlowUsdM7d < 0);
+    const inflowsOnly = enriched.filter((e) => filterByFlow(e) > 0);
+    const outflowsOnly = enriched.filter((e) => filterByFlow(e) < 0);
 
     function sortFn(side: "in" | "out") {
       if (sortKey === "flow7d") return (a: any, b: any) => (side === "in" ? b.netFlowUsdM7d - a.netFlowUsdM7d : a.netFlowUsdM7d - b.netFlowUsdM7d);
       if (sortKey === "flow30d") return (a: any, b: any) => (side === "in" ? b.netFlowUsdM30d - a.netFlowUsdM30d : a.netFlowUsdM30d - b.netFlowUsdM30d);
-      // Conviction: sort by absolute conviction within each side.
       return (a: any, b: any) => b.conviction.score - a.conviction.score;
     }
 
@@ -59,8 +59,8 @@ export default function ConvictionLeaderboard({ leaderboard }: Props) {
       </div>
 
       <div className="mt-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
-        <Column title="Strongest inflow conviction" Icon={ArrowUp} accent="positive" rows={topInflows} />
-        <Column title="Strongest outflow conviction" Icon={ArrowDown} accent="negative" rows={topOutflows} />
+        <Column title="Strongest inflow conviction" Icon={ArrowUp} accent="positive" rows={topInflows} sortKey={sortKey} />
+        <Column title="Strongest outflow conviction" Icon={ArrowDown} accent="negative" rows={topOutflows} sortKey={sortKey} />
       </div>
     </section>
   );
@@ -83,13 +83,17 @@ function Column({
   Icon,
   accent,
   rows,
+  sortKey,
 }: {
   title: string;
   Icon: typeof ArrowUp;
   accent: "positive" | "negative";
   rows: (LeaderboardEntry & { signedConviction: number })[];
+  sortKey: SortKey;
 }) {
   const accentClass = accent === "positive" ? "text-positive" : "text-negative";
+  // Display the metric matching the active sort tab so the visible numbers match the order.
+  const showMetric: "7d" | "30d" = sortKey === "flow30d" ? "30d" : "7d";
   return (
     <div className="rounded-2xl border border-border bg-surface overflow-hidden">
       <div className="px-4 py-3 flex items-center gap-2 border-b border-border">
@@ -118,10 +122,17 @@ function Column({
             </div>
             <Sparkline values={r.spark} color="auto" />
             <div className="text-right">
-              <div className={"text-sm font-semibold tabular-nums " + (r.netFlowUsdM7d >= 0 ? "text-positive" : "text-negative")}>
-                {fmtUsdM(r.netFlowUsdM7d, { signed: true })}
+              <div
+                className={
+                  "text-sm font-semibold tabular-nums " +
+                  ((showMetric === "7d" ? r.netFlowUsdM7d : r.netFlowUsdM30d) >= 0
+                    ? "text-positive"
+                    : "text-negative")
+                }
+              >
+                {fmtUsdM(showMetric === "7d" ? r.netFlowUsdM7d : r.netFlowUsdM30d, { signed: true })}
               </div>
-              <div className="text-[10px] text-fg-muted">7d net</div>
+              <div className="text-[10px] text-fg-muted">{showMetric} net</div>
             </div>
           </li>
         ))}

@@ -166,6 +166,7 @@ export function computeThemes(snapshot: FlowSnapshot): ThemeReading[] {
       netFlowUsdM30d: round1(totals30),
       conviction,
       topTickers,
+      contributorCount: rows.length,
       spark,
     };
   });

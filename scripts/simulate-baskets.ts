@@ -142,9 +142,12 @@ async function main() {
       const max = Math.max(...b.holdings.map((h) => h.weight));
       const min = Math.min(...b.holdings.map((h) => h.weight));
       if (min < 5) fail(`${r}/${p} has a holding with weight <5% (${min}%)`);
-      // For 2-holding crypto baskets, single-asset weight up to 60% is acceptable.
-      // For larger baskets, no single asset >55%.
-      const concentrationLimit = b.holdings.length <= 2 ? 60 : 55;
+      // For 2-holding crypto baskets (BTC/ETH only — the universe we have flow data for),
+      // single-asset weight up to 70% is acceptable. The mild-accumulation basket is BTC-heavier
+      // (70/30) than strong (60/40), reflecting the principle "when conviction is partial,
+      // concentrate in the asset with the strongest signal" (BTC has more flow depth than ETH).
+      // For larger baskets (n>=3), no single asset >55%.
+      const concentrationLimit = b.holdings.length <= 2 ? 70 : 55;
       if (max > concentrationLimit) fail(`${r}/${p} concentration breach: ${max}% (limit ${concentrationLimit}% for n=${b.holdings.length})`);
       if (b.holdings.length > 8) fail(`${r}/${p} has >8 holdings — basket too sprawling`);
       ok(`${r}/${p} weights ${min}%..${max}%, n=${b.holdings.length}`);

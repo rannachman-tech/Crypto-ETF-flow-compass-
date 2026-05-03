@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T11:28:14.927Z",
+  "generatedAt": "2026-05-03T12:14:25.607Z",
   "asOf": "2026-05-01",
   "windowDays": 90,
   "flows": [
@@ -8368,20 +8368,14 @@
     {
       "source": "Farside Investors — BTC spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-05-03T11:28:14.927Z",
+      "lastSeen": "2026-05-03T12:14:25.607Z",
       "note": "Parsed 594 dates × 12 tickers; kept 5798 rows."
     },
     {
       "source": "Farside Investors — ETH spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-05-03T11:28:14.927Z",
+      "lastSeen": "2026-05-03T12:14:25.607Z",
       "note": "Parsed 456 dates × 20 tickers; kept 3602 rows."
-    },
-    {
-      "source": "CoinShares Weekly Asset Flows (altcoins + global)",
-      "status": "down",
-      "lastSeen": null,
-      "note": "Phase 2 source — scraper not yet wired. Will add Solana, XRP, ADA, LINK flow data + multi-region crypto ETP coverage when wired."
     }
   ]
 }

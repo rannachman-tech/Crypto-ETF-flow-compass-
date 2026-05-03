@@ -46,7 +46,9 @@ export default function ThemeGauges({ themes }: Props) {
 
             <div className="mt-3 grid grid-cols-2 gap-2">
               <div>
-                <div className="text-[10px] font-mono uppercase tracking-wider text-fg-subtle">7d net</div>
+                <div className="text-[10px] font-mono uppercase tracking-wider text-fg-subtle">
+                  7d net · {t.contributorCount} fund{t.contributorCount === 1 ? "" : "s"}
+                </div>
                 <div className={"text-sm font-semibold tabular-nums " + (t.netFlowUsdM7d >= 0 ? "text-positive" : "text-negative")}>
                   {fmtUsdM(t.netFlowUsdM7d, { signed: true })}
                 </div>
@@ -61,18 +63,28 @@ export default function ThemeGauges({ themes }: Props) {
               <Sparkline values={t.spark} width={200} height={28} className="w-full" />
             </div>
 
-            <div className="mt-3 flex flex-wrap gap-1">
+            <div className="mt-3 flex flex-wrap items-center gap-1">
               {t.topTickers.slice(0, 4).map((tt) => (
                 <span
                   key={tt.ticker}
                   className="inline-flex items-center gap-1 rounded-md border border-border bg-surface-2 px-1.5 py-0.5 text-[10px] font-mono text-fg"
+                  title={`7d net: ${fmtUsdM(tt.netFlowUsdM7d, { signed: true })}`}
                 >
                   {tt.ticker}
                 </span>
               ))}
+              {t.contributorCount > t.topTickers.length && (
+                <span className="text-[10px] text-fg-muted ml-0.5">
+                  + {t.contributorCount - t.topTickers.length} more
+                </span>
+              )}
             </div>
 
-            <p className="mt-3 text-[11px] text-fg-subtle leading-snug">{meta.description}</p>
+            <p className="mt-2 text-[10px] text-fg-muted leading-snug italic">
+              Top contributors by absolute flow shown. Headline number is net across all {t.contributorCount} funds.
+            </p>
+
+            <p className="mt-2 text-[11px] text-fg-subtle leading-snug">{meta.description}</p>
           </article>
         );
       })}
