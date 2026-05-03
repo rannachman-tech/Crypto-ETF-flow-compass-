@@ -16,20 +16,27 @@ export default function ConvictionLeaderboard({ leaderboard }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("conviction");
 
   const { topInflows, topOutflows } = useMemo(() => {
+    // Sign comes from 7-day flow (the time scale users see in the rows), not today's direction.
+    // Without this, a ticker with +flow today but −7d net could land in the inflow column.
     const enriched = leaderboard.map((l) => ({
       ...l,
-      signedConviction: Math.sign(l.conviction.direction || (l.netFlowUsdM7d || 0)) * l.conviction.score,
+      signedConviction: Math.sign(l.netFlowUsdM7d) * l.conviction.score,
     }));
 
-    function sortFn(dir: "in" | "out") {
-      if (sortKey === "flow7d") return (a: any, b: any) => (dir === "in" ? b.netFlowUsdM7d - a.netFlowUsdM7d : a.netFlowUsdM7d - b.netFlowUsdM7d);
-      if (sortKey === "flow30d") return (a: any, b: any) => (dir === "in" ? b.netFlowUsdM30d - a.netFlowUsdM30d : a.netFlowUsdM30d - b.netFlowUsdM30d);
-      return (a: any, b: any) => (dir === "in" ? b.signedConviction - a.signedConviction : a.signedConviction - b.signedConviction);
+    // Inflow column: only tickers with net positive 7d flow.
+    const inflowsOnly = enriched.filter((e) => e.netFlowUsdM7d > 0);
+    const outflowsOnly = enriched.filter((e) => e.netFlowUsdM7d < 0);
+
+    function sortFn(side: "in" | "out") {
+      if (sortKey === "flow7d") return (a: any, b: any) => (side === "in" ? b.netFlowUsdM7d - a.netFlowUsdM7d : a.netFlowUsdM7d - b.netFlowUsdM7d);
+      if (sortKey === "flow30d") return (a: any, b: any) => (side === "in" ? b.netFlowUsdM30d - a.netFlowUsdM30d : a.netFlowUsdM30d - b.netFlowUsdM30d);
+      // Conviction: sort by absolute conviction within each side.
+      return (a: any, b: any) => b.conviction.score - a.conviction.score;
     }
 
     return {
-      topInflows: [...enriched].sort(sortFn("in")).slice(0, 6),
-      topOutflows: [...enriched].sort(sortFn("out")).slice(0, 6),
+      topInflows: [...inflowsOnly].sort(sortFn("in")).slice(0, 6),
+      topOutflows: [...outflowsOnly].sort(sortFn("out")).slice(0, 6),
     };
   }, [leaderboard, sortKey]);
 

@@ -34,7 +34,9 @@ async function main() {
       const b = BASKETS[r][p];
       const sum = b.holdings.reduce((s, h) => s + h.weight, 0);
       if (Math.abs(sum - 100) > 0.01) fail(`${r}/${p} weights sum to ${sum} (≠100)`);
-      if (b.holdings.length < 3) fail(`${r}/${p} has <3 holdings`);
+      // Crypto-only universe — strong accumulation is intentionally just BTC + ETH (we don't
+      // have flow data on altcoins yet so we won't recommend them). 2 is the floor.
+      if (b.holdings.length < 2) fail(`${r}/${p} has <2 holdings`);
       if (b.holdings.length > 10) fail(`${r}/${p} has >10 holdings`);
       const ids = b.holdings.map((h) => h.instrumentId);
       if (new Set(ids).size !== ids.length) fail(`${r}/${p} has duplicate instrumentId`);
@@ -140,7 +142,10 @@ async function main() {
       const max = Math.max(...b.holdings.map((h) => h.weight));
       const min = Math.min(...b.holdings.map((h) => h.weight));
       if (min < 5) fail(`${r}/${p} has a holding with weight <5% (${min}%)`);
-      if (max > 60) fail(`${r}/${p} concentration breach: ${max}%`);
+      // For 2-holding crypto baskets, single-asset weight up to 60% is acceptable.
+      // For larger baskets, no single asset >55%.
+      const concentrationLimit = b.holdings.length <= 2 ? 60 : 55;
+      if (max > concentrationLimit) fail(`${r}/${p} concentration breach: ${max}% (limit ${concentrationLimit}% for n=${b.holdings.length})`);
       if (b.holdings.length > 8) fail(`${r}/${p} has >8 holdings — basket too sprawling`);
       ok(`${r}/${p} weights ${min}%..${max}%, n=${b.holdings.length}`);
     }

@@ -66,10 +66,16 @@ export interface AccumulationReading {
   smoothedScore: number;
   phase: FlowPhase;
   history: { date: string; score: number; smoothedScore: number }[];
-  /** Today's gross inflows in USD millions (sum of positive net-flow entries). */
-  inflowsUsdM: number;
-  /** Today's gross outflows in USD millions (sum of negative net-flow entries, as negative number). */
-  outflowsUsdM: number;
+  /** Today's gross inflows in USD millions. */
+  inflowsTodayUsdM: number;
+  /** Today's gross outflows in USD millions (negative number). */
+  outflowsTodayUsdM: number;
+  /** 7-day gross inflows in USD millions. Matches the smoothed needle's time scale. */
+  inflowsUsdM7d: number;
+  /** 7-day gross outflows in USD millions (negative number). Matches the smoothed needle. */
+  outflowsUsdM7d: number;
+  /** Date the snapshot was actually as of (latest date with any flow data). */
+  asOf: string;
 }
 
 export interface ThemeReading {

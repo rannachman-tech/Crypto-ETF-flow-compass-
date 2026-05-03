@@ -103,13 +103,21 @@ export function computeAccumulation(snapshot: FlowSnapshot): AccumulationReading
 
   const score = round1(rawScores[rawScores.length - 1] ?? 0);
   const smoothedScore = round1(smoothed[smoothed.length - 1] ?? 0);
+
+  // 7-day rollups for the supporting cards (matches the smoothed needle's time scale).
+  const last7In = dailyIn.slice(-7).reduce((s, v) => s + v, 0);
+  const last7Out = dailyOut.slice(-7).reduce((s, v) => s + v, 0);
+
   return {
     score,
     smoothedScore,
     phase: phaseFromScore(smoothedScore),
     history,
-    inflowsUsdM: round1(dailyIn[dailyIn.length - 1] ?? 0),
-    outflowsUsdM: round1(-(dailyOut[dailyOut.length - 1] ?? 0)),
+    inflowsTodayUsdM: round1(dailyIn[dailyIn.length - 1] ?? 0),
+    outflowsTodayUsdM: round1(-(dailyOut[dailyOut.length - 1] ?? 0)),
+    inflowsUsdM7d: round1(last7In),
+    outflowsUsdM7d: round1(-last7Out),
+    asOf: dates[dates.length - 1] ?? "",
   };
 }
 

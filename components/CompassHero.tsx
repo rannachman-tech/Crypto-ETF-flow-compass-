@@ -19,9 +19,13 @@ export default function CompassHero({ accum }: Props) {
       ? "text-positive"
       : "text-negative";
 
-  const totalToday = Math.abs(accum.inflowsUsdM) + Math.abs(accum.outflowsUsdM);
-  const inPct = totalToday === 0 ? 0 : (Math.max(0, accum.inflowsUsdM) / totalToday) * 100;
-  const outPct = totalToday === 0 ? 0 : (Math.abs(Math.min(0, accum.outflowsUsdM)) / totalToday) * 100;
+  // Use 7-day rollups so the supporting card matches the 7-day smoothed needle's time scale.
+  // (A single day can be all-inflow or all-outflow and feel disconnected from the smoothed read.)
+  const inflows = accum.inflowsUsdM7d;
+  const outflows = accum.outflowsUsdM7d;
+  const total = Math.abs(inflows) + Math.abs(outflows);
+  const inPct = total === 0 ? 0 : (Math.max(0, inflows) / total) * 100;
+  const outPct = total === 0 ? 0 : (Math.abs(Math.min(0, outflows)) / total) * 100;
 
   return (
     <div className="flex flex-col items-center text-center w-full">
@@ -43,20 +47,20 @@ export default function CompassHero({ accum }: Props) {
 
       <div className="mt-5 w-full max-w-[420px] rounded-xl border border-border bg-surface-2/40 px-4 py-3">
         <div className="flex items-baseline justify-between text-[10px] font-mono uppercase tracking-[0.18em] text-fg-subtle">
-          <span>Today's flows</span>
-          <span className="text-fg-muted">{totalToday > 0 ? fmtUsdM(totalToday) : "—"}</span>
+          <span>Last 7 days · gross flows</span>
+          <span className="text-fg-muted">{total > 0 ? fmtUsdM(total) : "—"}</span>
         </div>
         <div className="mt-2 grid grid-cols-2 gap-3">
           <div className="text-left">
             <div className="text-[10px] font-mono uppercase tracking-wider text-fg-subtle">Gross inflow</div>
-            <div className={"mt-0.5 text-base font-semibold tabular-nums " + (accum.inflowsUsdM > 0 ? "text-positive" : "text-fg-muted")}>
-              {accum.inflowsUsdM > 0 ? "+" + fmtUsdM(accum.inflowsUsdM).replace("+", "") : fmtUsdM(0)}
+            <div className={"mt-0.5 text-base font-semibold tabular-nums " + (inflows > 0 ? "text-positive" : "text-fg-muted")}>
+              {inflows > 0 ? "+" + fmtUsdM(inflows).replace("+", "") : fmtUsdM(0)}
             </div>
           </div>
           <div className="text-right">
             <div className="text-[10px] font-mono uppercase tracking-wider text-fg-subtle">Gross outflow</div>
-            <div className={"mt-0.5 text-base font-semibold tabular-nums " + (accum.outflowsUsdM < 0 ? "text-negative" : "text-fg-muted")}>
-              {accum.outflowsUsdM < 0 ? fmtUsdM(accum.outflowsUsdM, { signed: true }) : fmtUsdM(0)}
+            <div className={"mt-0.5 text-base font-semibold tabular-nums " + (outflows < 0 ? "text-negative" : "text-fg-muted")}>
+              {outflows < 0 ? fmtUsdM(outflows, { signed: true }) : fmtUsdM(0)}
             </div>
           </div>
         </div>

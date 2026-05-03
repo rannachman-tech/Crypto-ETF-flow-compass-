@@ -43,11 +43,10 @@ const STRONG_ACCUMULATION: Basket = {
   region: "us",
   title: "Press the accelerator",
   thesis:
-    "The accumulation needle is deep in the green — institutional crypto ETF flows are running at conviction levels (long streaks, multi-issuer breadth, magnitude well above 30-day average). Position aggressively in the assets retail can actually trade on eToro: BTC, ETH, plus measured altcoin exposure for upside leverage.",
+    "The accumulation needle is deep in the green — institutional flows into BTC and ETH spot ETFs are running at conviction levels (long streaks, multi-issuer breadth, magnitude well above 30-day average). We only recommend the assets we have direct flow signal for: BTC and ETH. Altcoins are deliberately excluded — without flow data on Solana, XRP, ADA or LINK we won't pretend to have conviction on them.",
   holdings: [
-    holding("BTC", 50, "Core BTC", "Bitcoin is the cleanest expression of institutional accumulation — when ETFs are inflowing, BTC is the trade. 50% sizing reflects 'core' conviction."),
-    holding("ETH", 30, "Ethereum sleeve", "Ethereum spot ETF flows typically lag BTC but follow within days. 30% gets you ETH exposure without overconcentrating."),
-    holding("SOL", 20, "Altcoin beta", "Solana is the highest-quality altcoin with eToro tradeable liquidity. 20% adds upside leverage if the accumulation regime broadens beyond just BTC + ETH."),
+    holding("BTC", 60, "Core BTC", "Bitcoin is the cleanest expression of institutional accumulation — when ETFs are inflowing, BTC is the trade. 60% sizing reflects strongest conviction in the asset our data covers most reliably."),
+    holding("ETH", 40, "Ethereum sleeve", "Ethereum spot ETF flows typically lag BTC but follow within days. 40% captures the broadening of the accumulation regime."),
   ],
 };
 
@@ -56,11 +55,11 @@ const MILD_ACCUMULATION: Basket = {
   region: "us",
   title: "Lean in",
   thesis:
-    "The needle leans positive but conviction isn't at acceleration levels — flows are net positive but streaks are short or breadth is mixed. Stay long the core but don't chase altcoins yet. BTC-heavy with an ETH sleeve.",
+    "The needle leans positive but conviction isn't at acceleration levels — flows are net positive but streaks are short or breadth is mixed. Stay long the core with a small cash buffer reflecting that conviction isn't full. Altcoins deliberately excluded — we don't have flow data on them, so we won't recommend them.",
   holdings: [
-    holding("BTC", 60, "Core BTC", "When the accumulation lean is mild, the cleanest trade is BTC itself. 60% sizing reflects 'core long, no altcoin chase'."),
-    holding("ETH", 30, "Ethereum sleeve", "Steady ETH allocation — captures the spillover when accumulation broadens."),
-    holding("LINK", 10, "Quality altcoin", "Chainlink is a smaller satellite — institutional altcoin flows often pick LINK first as a 'real-utility' alt."),
+    holding("BTC", 55, "Core BTC", "When the accumulation lean is mild, BTC is the cleanest trade. 55% sizing reflects 'core long, no altcoin chase' — informed by the strongest data we have."),
+    holding("ETH", 30, "Ethereum sleeve", "Steady ETH allocation captures the spillover when accumulation broadens. Backed by real Farside ETH ETF flow data."),
+    holding("BIL", 15, "Cash buffer", "T-bill cash sleeve — earns yield while you wait for the regime to confirm into strong conviction."),
   ],
 };
 

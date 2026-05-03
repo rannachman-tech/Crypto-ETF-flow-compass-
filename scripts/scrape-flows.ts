@@ -161,13 +161,9 @@ async function main() {
     console.error(`ETH scrape failed: ${e?.message}`);
   }
 
-  // Phase 2 — CoinShares Weekly Asset Flows. Status surfaced honestly.
-  sourceHealth.push({
-    source: "CoinShares Weekly Asset Flows (altcoins + global)",
-    status: "down",
-    lastSeen: null,
-    note: "Phase 2 source — scraper not yet wired. Will add Solana, XRP, ADA, LINK flow data + multi-region crypto ETP coverage when wired.",
-  });
+  // CoinShares Weekly is a Phase 2 source — not surfaced in sourceHealth until the
+  // scraper is actually wired. Surfacing "down" today would falsely imply degradation
+  // when in fact we're not relying on that source at all yet.
 
   if (!allRows.length) {
     console.error("No rows scraped from any source — aborting write to avoid clobbering prior data.");
