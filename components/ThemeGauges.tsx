@@ -67,24 +67,38 @@ export default function ThemeGauges({ themes }: Props) {
               {t.topTickers.slice(0, 4).map((tt) => (
                 <span
                   key={tt.ticker}
-                  className="inline-flex items-center gap-1 rounded-md border border-border bg-surface-2 px-1.5 py-0.5 text-[10px] font-mono text-fg"
+                  className={
+                    "inline-flex items-center gap-1.5 rounded-md border border-border bg-surface-2 px-1.5 py-0.5 text-[10px] font-mono " +
+                    (tt.netFlowUsdM7d >= 0 ? "text-fg" : "text-fg-muted")
+                  }
                   title={`7d net: ${fmtUsdM(tt.netFlowUsdM7d, { signed: true })}`}
                 >
-                  {tt.ticker}
+                  <span>{tt.ticker}</span>
+                  <span className={"tabular-nums " + (tt.netFlowUsdM7d >= 0 ? "text-positive" : "text-negative")}>
+                    {fmtUsdM(tt.netFlowUsdM7d, { signed: true })}
+                  </span>
                 </span>
               ))}
-              {t.contributorCount > t.topTickers.length && (
-                <span className="text-[10px] text-fg-muted ml-0.5">
-                  + {t.contributorCount - t.topTickers.length} more
-                </span>
-              )}
             </div>
 
-            <p className="mt-2 text-[10px] text-fg-muted leading-snug italic">
-              Top contributors by absolute flow shown. Headline number is net across all {t.contributorCount} funds.
-            </p>
+            {/* Reconciliation strip — surfaces the "silent drag" so headline ≠ chip-sum confusion goes away. */}
+            {t.contributorCount > t.topTickers.length && (() => {
+              const topSum = t.topTickers.slice(0, 4).reduce((s, tt) => s + tt.netFlowUsdM7d, 0);
+              const othersSum = Math.round((t.netFlowUsdM7d - topSum) * 10) / 10;
+              const othersCount = t.contributorCount - t.topTickers.length;
+              return (
+                <div className="mt-2 rounded-md bg-surface-2/60 border border-border px-2 py-1.5 text-[10px] text-fg-muted leading-snug">
+                  <span className="text-fg-subtle">Top 4 of {t.contributorCount}.</span>{" "}
+                  Other {othersCount} funds net{" "}
+                  <span className={"tabular-nums font-medium " + (othersSum >= 0 ? "text-positive" : "text-negative")}>
+                    {fmtUsdM(othersSum, { signed: true })}
+                  </span>
+                  {" "}— headline is the sum of all {t.contributorCount}.
+                </div>
+              );
+            })()}
 
-            <p className="mt-2 text-[11px] text-fg-subtle leading-snug">{meta.description}</p>
+            <p className="mt-3 text-[11px] text-fg-subtle leading-snug">{meta.description}</p>
           </article>
         );
       })}
