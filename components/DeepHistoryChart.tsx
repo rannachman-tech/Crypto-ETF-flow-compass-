@@ -38,12 +38,12 @@ export default function DeepHistoryChart({ history }: Props) {
 
   const zeroY = yFor(0);
 
-  // Calibration bands with explicit zone labels in the right gutter.
+  // Calibration bands — labels match the accumulation/distribution framing used elsewhere in the app.
   const bands: { y0: number; y1: number; color: string; opacity: number; label: string; mid: number }[] = [
-    { y0: yFor(100), y1: yFor(30),   color: "rgb(var(--positive))", opacity: 0.07, label: "Risk-on",      mid: 65 },
-    { y0: yFor(30),  y1: yFor(0),    color: "rgb(var(--positive))", opacity: 0.03, label: "Leaning risk", mid: 15 },
-    { y0: yFor(0),   y1: yFor(-30),  color: "rgb(var(--negative))", opacity: 0.03, label: "Leaning safe", mid: -15 },
-    { y0: yFor(-30), y1: yFor(-100), color: "rgb(var(--negative))", opacity: 0.07, label: "Risk-off",     mid: -65 },
+    { y0: yFor(100), y1: yFor(30),   color: "rgb(var(--positive))", opacity: 0.07, label: "Strong accumulation", mid: 65 },
+    { y0: yFor(30),  y1: yFor(0),    color: "rgb(var(--positive))", opacity: 0.03, label: "Mild accumulation",   mid: 15 },
+    { y0: yFor(0),   y1: yFor(-30),  color: "rgb(var(--negative))", opacity: 0.03, label: "Mild distribution",   mid: -15 },
+    { y0: yFor(-30), y1: yFor(-100), color: "rgb(var(--negative))", opacity: 0.07, label: "Strong distribution", mid: -65 },
   ];
 
   const xTicks = history.filter((_, i) => i % 5 === 0 || i === history.length - 1);
@@ -56,14 +56,14 @@ export default function DeepHistoryChart({ history }: Props) {
             Needle history · 30 days
           </h2>
           <p className="mt-1 text-sm text-fg-subtle max-w-2xl">
-            Daily Risk-On / Risk-Off score. The score is a unitless index from <span className="tabular-nums font-medium text-fg">−100</span> (every dollar going to safety) to <span className="tabular-nums font-medium text-fg">+100</span> (every dollar going to risk). It's the net tilt of today's flows: <span className="font-mono text-[11px]">(risk inflows − safe inflows) ÷ (|risk| + |safe|) × 100</span>.
+            Daily accumulation / distribution score. The score is a unitless index from <span className="tabular-nums font-medium text-fg">−100</span> (pure distribution — every dollar of organic crypto ETF flow is an outflow) to <span className="tabular-nums font-medium text-fg">+100</span> (pure accumulation — every dollar is an inflow). Formula: <span className="font-mono text-[11px]">(inflows − outflows) ÷ (inflows + outflows) × 100</span>, organic ETFs only (Grayscale excluded).
         </p>
         </div>
         <Legend />
       </div>
 
       <div className="mt-4 rounded-2xl border border-border bg-surface p-2">
-        <svg viewBox={`0 0 ${W} ${H}`} className="w-full h-auto" role="img" aria-label="30-day Risk-On / Risk-Off needle history with calibration zones">
+        <svg viewBox={`0 0 ${W} ${H}`} className="w-full h-auto" role="img" aria-label="30-day accumulation / distribution needle history with calibration zones">
           {bands.map((b, i) => (
             <g key={i}>
               <rect
@@ -108,7 +108,7 @@ export default function DeepHistoryChart({ history }: Props) {
             className="fill-fg-muted"
             style={{ fontSize: "10px", letterSpacing: "0.18em", textTransform: "uppercase", fontFamily: "ui-monospace, monospace" }}
           >
-            RoRo score · index
+            Accumulation index
           </text>
 
           {/* Y axis labels */}

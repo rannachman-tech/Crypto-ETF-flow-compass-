@@ -13,9 +13,10 @@ const CATALOG_URL = "https://api.etorostatic.com/sapi/instrumentsmetadata/V1.1/i
 //   4  = NASDAQ
 //   5  = NYSE / NYSE Arca
 //   7  = LSE main (the .L tickers — confirmed working in Stock Cycle Compass)
+//   8  = eToro crypto venue (BTC, ETH, SOL, XRP, etc.)
 //   18 = Euronext Paris (.PA)
 //   30 = Euronext Amsterdam (VUSA.NV — has shipped in production)
-const SAFE_EXCHANGES = new Set([4, 5, 7, 18, 30]);
+const SAFE_EXCHANGES = new Set([4, 5, 7, 8, 18, 30]);
 
 interface CatalogEntry {
   InstrumentID: number;
@@ -27,7 +28,9 @@ interface CatalogEntry {
   ExchangeID?: number;
 }
 
-const ETF_TYPE_ID = 6;
+// InstrumentTypeID 6 = ETF, 10 = Crypto. Crypto-aware baskets (Crypto Flow Compass)
+// reference both — BTC/ETH are type 10, defensive sleeves (GLD, BIL, TLT, IB01.L) are type 6.
+const ALLOWED_TYPES = new Set([6, 10]);
 
 async function main() {
   const res = await fetch(CATALOG_URL);
@@ -46,7 +49,7 @@ async function main() {
       continue;
     }
     const flags: string[] = [];
-    if (e.InstrumentTypeID !== ETF_TYPE_ID) flags.push(`type=${e.InstrumentTypeID}(non-ETF)`);
+    if (!ALLOWED_TYPES.has(e.InstrumentTypeID)) flags.push(`type=${e.InstrumentTypeID}(unsupported)`);
     if (e.IsInternalInstrument) flags.push("internal");
     if (e.HasExpirationDate) flags.push("hasExpiry");
     if (e.ExchangeID && !SAFE_EXCHANGES.has(e.ExchangeID)) flags.push(`exchange=${e.ExchangeID}(unsafe?)`);
