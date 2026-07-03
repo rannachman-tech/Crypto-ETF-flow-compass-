@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:33:51.560Z",
+  "generatedAt": "2026-07-03T23:32:10.163Z",
   "asOf": "2026-07-02",
   "windowDays": 90,
   "flows": [
@@ -4750,12 +4750,47 @@
     },
     {
       "date": "2026-07-02",
+      "ticker": "IBIT",
+      "netFlowUsdM": -40.4
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "FBTC",
+      "netFlowUsdM": 166
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "BITB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-07-02",
       "ticker": "ARKB",
       "netFlowUsdM": 91.8
     },
     {
       "date": "2026-07-02",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-07-02",
       "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "BRRR",
+      "netFlowUsdM": 1.7
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "HODL",
+      "netFlowUsdM": 4.4
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "BTCW",
       "netFlowUsdM": 0
     },
     {
@@ -8705,7 +8740,37 @@
     },
     {
       "date": "2026-07-02",
+      "ticker": "ETHA",
+      "netFlowUsdM": 29.7
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "FETH",
+      "netFlowUsdM": 0.8
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-07-02",
       "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "ETHV",
+      "netFlowUsdM": 1.2
+    },
+    {
+      "date": "2026-07-02",
+      "ticker": "QETH",
       "netFlowUsdM": 0
     },
     {
@@ -8723,14 +8788,14 @@
     {
       "source": "Farside Investors — BTC spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-07-02T23:33:51.560Z",
-      "note": "Parsed 636 dates × 12 tickers; kept 6253 rows."
+      "lastSeen": "2026-07-03T23:32:10.163Z",
+      "note": "Parsed 636 dates × 12 tickers; kept 6260 rows."
     },
     {
       "source": "Farside Investors — ETH spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-07-02T23:33:51.560Z",
-      "note": "Parsed 498 dates × 20 tickers; kept 3972 rows."
+      "lastSeen": "2026-07-03T23:32:10.163Z",
+      "note": "Parsed 498 dates × 20 tickers; kept 3978 rows."
     }
   ]
 }
