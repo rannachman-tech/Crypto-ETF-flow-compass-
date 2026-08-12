@@ -1,58 +1,8 @@
 {
-  "generatedAt": "2026-08-11T23:08:40.358Z",
-  "asOf": "2026-08-11",
+  "generatedAt": "2026-08-12T23:06:58.037Z",
+  "asOf": "2026-08-12",
   "windowDays": 90,
   "flows": [
-    {
-      "date": "2026-04-02",
-      "ticker": "IBIT",
-      "netFlowUsdM": -3
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "FBTC",
-      "netFlowUsdM": 7.3
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "BITB",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "ARKB",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "BTCO",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "EZBC",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "BRRR",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "HODL",
-      "netFlowUsdM": 4.7
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "BTCW",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "GBTC",
-      "netFlowUsdM": 0
-    },
     {
       "date": "2026-04-06",
       "ticker": "IBIT",
@@ -4875,6 +4825,16 @@
     },
     {
       "date": "2026-08-11",
+      "ticker": "IBIT",
+      "netFlowUsdM": 50.2
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "FBTC",
+      "netFlowUsdM": -4.1
+    },
+    {
+      "date": "2026-08-11",
       "ticker": "BITB",
       "netFlowUsdM": 0
     },
@@ -4885,8 +4845,28 @@
     },
     {
       "date": "2026-08-11",
+      "ticker": "BTCO",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-11",
       "ticker": "EZBC",
       "netFlowUsdM": -16.5
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "HODL",
+      "netFlowUsdM": -10.3
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
     },
     {
       "date": "2026-08-11",
@@ -4899,49 +4879,59 @@
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "ETHA",
-      "netFlowUsdM": -46.7
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "ETHB",
+      "date": "2026-08-12",
+      "ticker": "IBIT",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "FETH",
-      "netFlowUsdM": -7.7
-    },
-    {
-      "date": "2026-04-02",
-      "ticker": "ETHW",
+      "date": "2026-08-12",
+      "ticker": "FBTC",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "TETH",
+      "date": "2026-08-12",
+      "ticker": "BITB",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "ETHV",
+      "date": "2026-08-12",
+      "ticker": "ARKB",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "QETH",
+      "date": "2026-08-12",
+      "ticker": "BTCO",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "EZET",
+      "date": "2026-08-12",
+      "ticker": "EZBC",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-02",
-      "ticker": "ETHE",
-      "netFlowUsdM": -16.8
+      "date": "2026-08-12",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "HODL",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "BTCW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "MSBT",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "GBTC",
+      "netFlowUsdM": 0
     },
     {
       "date": "2026-04-06",
@@ -8890,12 +8880,37 @@
     },
     {
       "date": "2026-08-11",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0.6
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "FETH",
+      "netFlowUsdM": -2.3
+    },
+    {
+      "date": "2026-08-11",
       "ticker": "ETHW",
       "netFlowUsdM": 0
     },
     {
       "date": "2026-08-11",
       "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-11",
+      "ticker": "QETH",
       "netFlowUsdM": 0
     },
     {
@@ -8907,20 +8922,65 @@
       "date": "2026-08-11",
       "ticker": "ETHE",
       "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "ETHA",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "ETHB",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "FETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "ETHW",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "QETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-12",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
     }
   ],
   "sourceHealth": [
     {
       "source": "Farside Investors — BTC spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-08-11T23:08:40.358Z",
-      "note": "Parsed 663 dates × 12 tickers; kept 6549 rows."
+      "lastSeen": "2026-08-12T23:06:58.037Z",
+      "note": "Parsed 664 dates × 12 tickers; kept 6566 rows."
     },
     {
       "source": "Farside Investors — ETH spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-08-11T23:08:40.358Z",
-      "note": "Parsed 525 dates × 20 tickers; kept 4215 rows."
+      "lastSeen": "2026-08-12T23:06:58.037Z",
+      "note": "Parsed 526 dates × 20 tickers; kept 4229 rows."
     }
   ]
 }
