@@ -1,63 +1,8 @@
 {
-  "generatedAt": "2026-08-29T03:45:33.204Z",
-  "asOf": "2026-08-28",
+  "generatedAt": "2026-09-01T01:19:48.452Z",
+  "asOf": "2026-08-31",
   "windowDays": 90,
   "flows": [
-    {
-      "date": "2026-04-22",
-      "ticker": "IBIT",
-      "netFlowUsdM": 246.9
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "FBTC",
-      "netFlowUsdM": 56.7
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "BITB",
-      "netFlowUsdM": 15.4
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "ARKB",
-      "netFlowUsdM": 11.9
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "BTCO",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "EZBC",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "BRRR",
-      "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "HODL",
-      "netFlowUsdM": 3.9
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "BTCW",
-      "netFlowUsdM": 6.3
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "MSBT",
-      "netFlowUsdM": 11.3
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "GBTC",
-      "netFlowUsdM": -16.6
-    },
     {
       "date": "2026-04-23",
       "ticker": "IBIT",
@@ -4944,49 +4889,49 @@
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-22",
-      "ticker": "ETHA",
-      "netFlowUsdM": 53.6
+      "date": "2026-08-31",
+      "ticker": "FBTC",
+      "netFlowUsdM": 6.9
     },
     {
-      "date": "2026-04-22",
-      "ticker": "ETHB",
+      "date": "2026-08-31",
+      "ticker": "BITB",
+      "netFlowUsdM": 4.3
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "ARKB",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-22",
-      "ticker": "FETH",
-      "netFlowUsdM": 40.6
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "ETHW",
+      "date": "2026-08-31",
+      "ticker": "EZBC",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-22",
-      "ticker": "TETH",
+      "date": "2026-08-31",
+      "ticker": "BRRR",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-22",
-      "ticker": "ETHV",
+      "date": "2026-08-31",
+      "ticker": "HODL",
+      "netFlowUsdM": -13.4
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "BTCW",
       "netFlowUsdM": 0
     },
     {
-      "date": "2026-04-22",
-      "ticker": "QETH",
-      "netFlowUsdM": 0
+      "date": "2026-08-31",
+      "ticker": "MSBT",
+      "netFlowUsdM": 3.6
     },
     {
-      "date": "2026-04-22",
-      "ticker": "EZET",
+      "date": "2026-08-31",
+      "ticker": "GBTC",
       "netFlowUsdM": 0
-    },
-    {
-      "date": "2026-04-22",
-      "ticker": "ETHE",
-      "netFlowUsdM": -9.2
     },
     {
       "date": "2026-04-23",
@@ -8977,20 +8922,50 @@
       "date": "2026-08-28",
       "ticker": "ETHE",
       "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "FETH",
+      "netFlowUsdM": 9.3
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "ETHW",
+      "netFlowUsdM": 3.7
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "TETH",
+      "netFlowUsdM": 1.2
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "ETHV",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "EZET",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-08-31",
+      "ticker": "ETHE",
+      "netFlowUsdM": 0
     }
   ],
   "sourceHealth": [
     {
       "source": "Farside Investors — BTC spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-08-29T03:45:33.204Z",
-      "note": "Parsed 676 dates × 12 tickers; kept 6698 rows."
+      "lastSeen": "2026-09-01T01:19:48.452Z",
+      "note": "Parsed 677 dates × 12 tickers; kept 6707 rows."
     },
     {
       "source": "Farside Investors — ETH spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-08-29T03:45:33.204Z",
-      "note": "Parsed 538 dates × 20 tickers; kept 4337 rows."
+      "lastSeen": "2026-09-01T01:19:48.452Z",
+      "note": "Parsed 539 dates × 20 tickers; kept 4343 rows."
     }
   ]
 }
