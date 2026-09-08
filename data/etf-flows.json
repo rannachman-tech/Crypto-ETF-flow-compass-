@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:12:50.348Z",
+  "generatedAt": "2026-09-08T00:32:25.025Z",
   "asOf": "2026-09-04",
   "windowDays": 90,
   "flows": [
@@ -4890,6 +4890,16 @@
     },
     {
       "date": "2026-09-04",
+      "ticker": "IBIT",
+      "netFlowUsdM": 117.4
+    },
+    {
+      "date": "2026-09-04",
+      "ticker": "FBTC",
+      "netFlowUsdM": 57.2
+    },
+    {
+      "date": "2026-09-04",
       "ticker": "BITB",
       "netFlowUsdM": 0
     },
@@ -4906,6 +4916,16 @@
     {
       "date": "2026-09-04",
       "ticker": "EZBC",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-09-04",
+      "ticker": "BRRR",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-09-04",
+      "ticker": "HODL",
       "netFlowUsdM": 0
     },
     {
@@ -8915,12 +8935,32 @@
     },
     {
       "date": "2026-09-04",
+      "ticker": "ETHA",
+      "netFlowUsdM": 57.8
+    },
+    {
+      "date": "2026-09-04",
+      "ticker": "ETHB",
+      "netFlowUsdM": 16.4
+    },
+    {
+      "date": "2026-09-04",
+      "ticker": "FETH",
+      "netFlowUsdM": -48.3
+    },
+    {
+      "date": "2026-09-04",
       "ticker": "ETHW",
       "netFlowUsdM": 0
     },
     {
       "date": "2026-09-04",
       "ticker": "TETH",
+      "netFlowUsdM": 0
+    },
+    {
+      "date": "2026-09-04",
+      "ticker": "ETHV",
       "netFlowUsdM": 0
     },
     {
@@ -8943,14 +8983,14 @@
     {
       "source": "Farside Investors — BTC spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-09-05T00:12:50.348Z",
-      "note": "Parsed 681 dates × 12 tickers; kept 6749 rows."
+      "lastSeen": "2026-09-08T00:32:25.025Z",
+      "note": "Parsed 681 dates × 12 tickers; kept 6753 rows."
     },
     {
       "source": "Farside Investors — ETH spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-09-05T00:12:50.348Z",
-      "note": "Parsed 543 dates × 20 tickers; kept 4378 rows."
+      "lastSeen": "2026-09-08T00:32:25.025Z",
+      "note": "Parsed 543 dates × 20 tickers; kept 4382 rows."
     }
   ]
 }
