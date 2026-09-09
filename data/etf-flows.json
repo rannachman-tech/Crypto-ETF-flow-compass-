@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T00:32:25.025Z",
-  "asOf": "2026-09-04",
+  "generatedAt": "2026-09-09T00:22:29.402Z",
+  "asOf": "2026-09-08",
   "windowDays": 90,
   "flows": [
     {
@@ -8983,14 +8983,14 @@
     {
       "source": "Farside Investors — BTC spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-09-08T00:32:25.025Z",
-      "note": "Parsed 681 dates × 12 tickers; kept 6753 rows."
+      "lastSeen": "2026-09-09T00:22:29.402Z",
+      "note": "Parsed 682 dates × 12 tickers; kept 6753 rows."
     },
     {
       "source": "Farside Investors — ETH spot ETF flows",
       "status": "ok",
-      "lastSeen": "2026-09-08T00:32:25.025Z",
-      "note": "Parsed 543 dates × 20 tickers; kept 4382 rows."
+      "lastSeen": "2026-09-09T00:22:29.402Z",
+      "note": "Parsed 544 dates × 20 tickers; kept 4382 rows."
     }
   ]
 }
